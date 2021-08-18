@@ -24,7 +24,7 @@
 [naver](http://naver.com)
 :kissing_smiling_eyes:
 
-``` python
+``` python 
 def go():
     print("hi")
 ```
