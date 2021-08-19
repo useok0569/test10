@@ -21,8 +21,7 @@
 위 문장에서 두 칸의 공백을 두어 강제 개행할 수 있습니다.
 
 [Emoji](http://emoji-cheat-sheet.com)
-[naver](http://naver.com)
-:kissing_smiling_eyes:
+[naver](http://naver.com)  :kissing_smiling_eyes:
 
 ``` python 
 def go():
